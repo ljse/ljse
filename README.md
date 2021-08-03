@@ -1,4 +1,4 @@
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages:
 
 <table>
     <tbody>
