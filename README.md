@@ -21,3 +21,15 @@
         </tr>
     </tbody>
 </table>
+
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
+PHP                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+Python                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+
+```
