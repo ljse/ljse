@@ -22,14 +22,10 @@
     </tbody>
 </table>
 
+### My GitHub stats 
 
-**I Mostly Code in JavaScript** 
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-```text
-JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-PHP                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-Python                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
 
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" />
