@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on as a WEB DEVELOPER
+
 - 📫 How to reach me: dev.ljse@gmail.com
