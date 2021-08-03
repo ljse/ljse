@@ -24,8 +24,6 @@
 
 ### My GitHub stats 
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ljse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://github-readme-stats.vercel.app/api?username=ljse&count_private=true&show_icons=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljse&layout=compact" />
