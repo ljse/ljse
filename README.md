@@ -24,6 +24,12 @@
             <td><a href="#"><img alt="Laravel" title="Laravel" height="28px"
                         src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" /></a>
             </td>
+            <td><a href="#"><img alt="MYSQL" title="MYSQL" height="28px"
+                        src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /></a>
+            </td>
+            <td><a href="#"><img alt="SASS" title="SASS" height="28px"
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
+            </td>
         </tr>
     </tbody>
 </table>
