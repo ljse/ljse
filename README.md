@@ -1,7 +1,7 @@
 <h1> Hey 👋, I'm Lawrence!</h1>
 </h1>
 
-## 👨‍💻 Languages:
+## 👨‍💻 Technologies:
 
 <table>
     <tbody>
