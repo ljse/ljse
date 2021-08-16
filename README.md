@@ -30,6 +30,9 @@
             <td><a href="#"><img alt="SASS" title="SASS" height="28px"
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
             </td>
+            <td><a href="#"><img alt="Vuejs" title="Vuejs" height="28px"
+                        src="https://cdn.svgporn.com/logos/vue.svg" /></a>
+            </td>
         </tr>
     </tbody>
 </table>
