@@ -21,6 +21,9 @@
             <td><a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
+            <td><a href="#"><img alt="Laravel" title="Laravel" height="28px"
+                        src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" /></a>
+            </td>
         </tr>
     </tbody>
 </table>
